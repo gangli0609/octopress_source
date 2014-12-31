@@ -1,0 +1,12 @@
+---
+author: Gang Li
+published: true
+layout: post
+title: "test"
+date: 2014-12-30 11:45:02 -0500
+comments: true
+categories: [AA, BB, CC]
+tags: [DD, EE]
+---
+
+Hello word 
