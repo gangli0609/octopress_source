@@ -8,9 +8,6 @@ footer: true
 [EDUCATION](#EDUCATION)  |  [RESEARCH EXPERIENCE](#RESEARCH)  |  [AWARDS&HONORS](#AWARD)
 
 
-
-<a href="{{ root_url }}/resume/CV_GangLi.pdf">See the PDF version</a>
-
 <a name="EDUCATION"></a>
 
 ## EDUCATION
@@ -33,7 +30,7 @@ footer: true
 
 ## RESEARCH EXPERIENCE
 **Research Assistant, Worcester Polytechnic Institute** -- Aug 2011 - Present  
- -- Led the robotics sections of NIH funded project "MR-Guided Precision Conformal Ablation Therapy for Brain Tumors" (with Albany Medical College, UMass Medical School and Acoustic MedSystem, Inc.)  
+ -- Responsible for the robotics sections of NIH funded project "MR-Guided Precision Conformal Ablation Therapy for Brain Tumors" (with Albany Medical College, UMass Medical School and Acoustic MedSystem, Inc.)  
  * Developed 8-DOF MRI-compatible stereotatic neurosurgery robotic system  
  * Developed and evaluated 6-DOF robotic system for deep brain stimulation  
  -- Actively work on the NIH funded project "Enabling technologies for MR guided prostate interventions" and Congressionally Directed Medical Research project "Development of an MRI-Guided Intra-Prostatic Needle Placement System" (with Harvard Medical School and Johns Hopkins University)  

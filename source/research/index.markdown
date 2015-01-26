@@ -21,7 +21,7 @@ footer: true
  -- Developed 6-DOF robotic system for deep brian stimulation  
  -- Evulated the system MRI compatiblity with 3T MR scanner  
  -- Evulated the system accuracy with optical tracking system and MRI phantom studies  
-{% img /research/system_setup.jpg 395%}	{% img /research/neuro_dbs.jpg 320%}
+{% img /research/system_setup.jpg 395%}	{% img /research/neuro_dbs.png 320%}
 
 #### MRI-Guided Parallel Manipulator for Prostate Transperineal Interventions  
 (_Collaborated with Harvard Medical School, Johns Hopkins University and Acoustic MedSystem, Inc._)  
@@ -52,7 +52,7 @@ footer: true
 #### Robotic System for Minimally Invasive Surgery  
  -- Designed a 7-DOF manipulator for minimally invasive laparascopic surgery  
  -- Preoperative planning to achieve the operation of collision avoidance and high dexterity  
-{% img /research/surgical_robot.jpg 280%} {% img /research/pose_planning.jpg 395%}  
+{% img /research/surgical_robot.jpg 280%} {% img /research/pose_planning.png 395%}  
 
 
 #<div style="text-align:right;line-height:3px;"><font size="3">[Back To Top](#TOP)
@@ -63,7 +63,7 @@ footer: true
 #### 
  -- Led the team to develop auto mobile robots for the 7th and 8th Asia-Pacific Robot Contest, sponsored by the Asia-Pacific Broadcasting Union (ABU)  
  -- Design, fabricate and test a series of auto mobile robots that fulfil the requirements of the contests  
-{% img /research/08Robocon.jpg 320%} {% img /research/09Robocon.jpg 400%}  
+{% img /research/08Robocon.jpg 320%} {% img /research/09Robocon.png 400%}  
 
 
 
